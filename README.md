@@ -2,6 +2,10 @@
 
 The repository for our paper "[Improving Real-time Driver Distraction Detection via Constrained Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S0952197623015920)".
 
+# Dataset Preparation
+
+For instructions on how to obtain the AUC V2 dataset with driver IDs, please refer to: https://github.com/gaohangcodes/LearningDriverIrrelevantFeatures4DBR
+
 # Citation
 
 Below is the BibTeX format citation for our paper:
